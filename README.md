@@ -37,3 +37,10 @@
 ### Noticias y PIB
 
 [Acceder al informe sobre Noticias y PIB](https://app.powerbi.com/view?r=eyJrIjoiMTNhYjBkMWYtNDdiZi00OTc4LThjMmEtYjQ3MTRjN2JmNzJlIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9)
+
+## 5. Análisis de Tendencias de Noticias
+
+### Explora el análisis de tendencias de noticias
+
+[Explorar el Dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTQwMTcwZmEtZDM3Yi00NDJkLTg2YTEtYzAxNzYyMWNhMTZmIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9)
+
