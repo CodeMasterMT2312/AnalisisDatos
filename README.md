@@ -36,4 +36,4 @@
 
 ### Noticias y PIB
 
-[Acceder al informe sobre Noticias y PIB](eyJrIjoiMTNhYjBkMWYtNDdiZi00OTc4LThjMmEtYjQ3MTRjN2JmNzJlIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9)
+[Acceder al informe sobre Noticias y PIB](https://app.powerbi.com/view?r=eyJrIjoiMTNhYjBkMWYtNDdiZi00OTc4LThjMmEtYjQ3MTRjN2JmNzJlIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9)
